@@ -16,6 +16,8 @@
                     </order>
                 </events>
                 <webhooks>1</webhooks>
+                <oauth_key>*oAuth API Key Here*</oauth_key>
+                <oauth_secret>*oAuth Shared Secret Here*</oauth_secret>
             </Test_Test>
         </plugin>
     </default>

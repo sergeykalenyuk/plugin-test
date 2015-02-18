@@ -16,7 +16,6 @@
             ]]></description>
             <oauth>
                 <enabled>1</enabled>
-                <signing_method>HMAC-SHA1</signing_method>
                 <required_config>whoami</required_config>
             </oauth>
         </info>
